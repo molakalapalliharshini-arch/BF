@@ -1,0 +1,6 @@
+{
+  "name": "For Ajhai: Happy Boyfriend Day",
+  "description": "A heartfelt, romantic interactive celebration for Ajhai with animated characters, illustrated stories of love and care, and heartfelt reasons why he is cherished.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
